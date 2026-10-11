@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=200&section=header&text=Ibrahim%20Andraws&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Blue%20Team%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=200&section=header&text=Ibrahim%20Andraws&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Researcher%20%7C%20Blue%20Team%20Aspirant&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/ibrahim4433">
@@ -22,18 +22,18 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Who am I?
 
 ```yaml
-name:        "Ibrahim Andraws (Saito)"
+name:        "Ibrahim Andraws"
 role:        "Cybersecurity & AI Engineering Student"
 location:    "Syria 🇸🇾"
 education:   "Information Technology Engineering (ITE) @ SVU"
-focus:       ["Blue Teaming", "Reverse Engineering", "Automation", "Network Security"]
-philosophy:  "A sound body = A sound mind = Good results. Learn deeply, build ethically."
+focus:       ["Blue Teaming", "Reverse Engineering", "Automation", "Network Security", "IT Helpdisk"]
+philosophy:  "A healthy body = A powerfull mind = excelent results. Learn deeply, build ethically."
 ```
 
-- 🔭 &nbsp;I build automation tools, secure proxies, and reverse-engineering scripts.
-- 🌱 &nbsp;Currently deepening my knowledge in SOC Operations, Network Traffic Analysis, and Python Automation.
-- ⚙️ &nbsp;Leading the IA Team (Digital Voluntary Team - DVT).
-- 📫 &nbsp;Reach me via my Telegram channel: **[Incentive Aid](https://t.me/Incentive_Aid/269)**.
+- 🔭 &nbsp;I build automation tools, secure utilities, and reverse-engineering scripts that make our life easier yet more secure.
+- 🌱 &nbsp;Currently deepening my knowledge in SOC Operations, Network Traffic Analysis, Systems monitoring and Python Automation.
+- ⚙️ &nbsp;Leading the IA Team (Digital Voluntary Team - DVT) to make a universal-linked community.
+- 📫 &nbsp;Reach me via my Telegram : **[@IA_Ibr](https://t.me/IA_Ibr)**.
 
 <br/>
 
