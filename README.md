@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,45:0044B5,80:0072FF,100:00D2FF&height=220&section=header&text=Ibrahim%20Andraws&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Researcher%20%7C%20Blue%20Team%20%26%20SOC%20Aspirant&descAlignY=56&descSize=18&descColor=00D2FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,45:0044B5,80:0072FF,100:00D2FF&height=220&section=header&text=Ibrahim%20Andraws&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Researcher%20%7C%20Blue%20Team%20%7C%20SOC%20Aspirant&descAlignY=56&descSize=18&descColor=00D2FF" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/ibrahim4433">
