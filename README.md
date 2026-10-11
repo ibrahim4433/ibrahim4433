@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Who am I?
 
 ```yaml
-name:        "Ibrahim Andraws (Saito)"
+name:        "Ibrahim Andraws"
 role:        "Cybersecurity Researcher & IT Engineering Student"
 location:    "Syria 🇸🇾"
 education:   "Information Technology Engineering (ITE) @ SVU"
@@ -32,8 +32,8 @@ philosophy:  "A sound body = A sound mind = Peak performance. Learn deeply, buil
 
 - 🛡️ &nbsp;**Defensive Security & SOC Aspirant**: Deepening skills in SIEM log monitoring, threat hunting, network traffic analysis, and incident triage.
 - 🔬 &nbsp;**Reverse Engineering & Binary Analysis**: Researching application internals, static/dynamic instrumentation, and defensive security verification.
-- ⚙️ &nbsp;**Team Lead @ IA Team (DVT)**: Leading digital voluntary engineering projects and secure cross-platform utility development.
-- 📫 &nbsp;**Connect**: Reach me directly on Telegram **[@IA_Ibr](https://t.me/IA_Ibr)** or explore my public channel **[Incentive Aid](https://t.me/Incentive_Aid/269)**.
+- ⚙️ &nbsp;**Team Lead @ IA Team (DVT)**: Leading digital voluntary engineering projects to make a useful universal community.
+- 📫 &nbsp;**Connect**: Reach me directly on Telegram **[@IA_Ibr](https://t.me/IA_Ibr)**.
 
 <br/>
 
